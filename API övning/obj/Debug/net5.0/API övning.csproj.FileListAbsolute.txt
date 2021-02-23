@@ -1,0 +1,19 @@
+C:\Users\adamz\Documents\vscode\B_Face\API övning\bin\Debug\net5.0\API övning.exe
+C:\Users\adamz\Documents\vscode\B_Face\API övning\bin\Debug\net5.0\API övning.deps.json
+C:\Users\adamz\Documents\vscode\B_Face\API övning\bin\Debug\net5.0\API övning.runtimeconfig.json
+C:\Users\adamz\Documents\vscode\B_Face\API övning\bin\Debug\net5.0\API övning.runtimeconfig.dev.json
+C:\Users\adamz\Documents\vscode\B_Face\API övning\bin\Debug\net5.0\API övning.dll
+C:\Users\adamz\Documents\vscode\B_Face\API övning\bin\Debug\net5.0\ref\API övning.dll
+C:\Users\adamz\Documents\vscode\B_Face\API övning\bin\Debug\net5.0\API övning.pdb
+C:\Users\adamz\Documents\vscode\B_Face\API övning\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\adamz\Documents\vscode\B_Face\API övning\bin\Debug\net5.0\RestSharp.dll
+C:\Users\adamz\Documents\vscode\B_Face\API övning\obj\Debug\net5.0\API övning.csprojAssemblyReference.cache
+C:\Users\adamz\Documents\vscode\B_Face\API övning\obj\Debug\net5.0\API övning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamz\Documents\vscode\B_Face\API övning\obj\Debug\net5.0\API övning.AssemblyInfoInputs.cache
+C:\Users\adamz\Documents\vscode\B_Face\API övning\obj\Debug\net5.0\API övning.AssemblyInfo.cs
+C:\Users\adamz\Documents\vscode\B_Face\API övning\obj\Debug\net5.0\API övning.csproj.CoreCompileInputs.cache
+C:\Users\adamz\Documents\vscode\B_Face\API övning\obj\Debug\net5.0\API övning.csproj.CopyComplete
+C:\Users\adamz\Documents\vscode\B_Face\API övning\obj\Debug\net5.0\API övning.dll
+C:\Users\adamz\Documents\vscode\B_Face\API övning\obj\Debug\net5.0\ref\API övning.dll
+C:\Users\adamz\Documents\vscode\B_Face\API övning\obj\Debug\net5.0\API övning.pdb
+C:\Users\adamz\Documents\vscode\B_Face\API övning\obj\Debug\net5.0\API övning.genruntimeconfig.cache

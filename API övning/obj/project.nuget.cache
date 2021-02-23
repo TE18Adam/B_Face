@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+E+SMkhNjW2w/UeZ5m32w+C3Rslu334wUbO/sPhJ/Ivr0UYl7sEHesurp4F4AmRhNYFWVaYhjEM5xfGihxFZ1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adamz\\Documents\\vscode\\B_Face\\API övning\\API övning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamz\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\adamz\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
